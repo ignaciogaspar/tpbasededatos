@@ -10,7 +10,7 @@ app.use(express.static('views'));
 
 // Path completo de la base de datos movies.db
 // Por ejemplo 'C:\\Users\\datagrip\\movies.db'
-const db = new sqlite3.Database('/Users/faculanusse/faculty/base-de-datos/movies.db');
+const db = new sqlite3.Database('/Users/faculanusse/faculty/base-de-datos/tpbasededatos/movies.db');
 
 // Configurar el motor de plantillas EJS
 app.set('view engine', 'ejs');
