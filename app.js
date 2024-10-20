@@ -1,5 +1,5 @@
 const express = require('express');
-const sqlite3 = require('sqlite3');
+const sqlite3 = require('sqlite3').verbose();
 const ejs = require('ejs');
 
 const app = express();
@@ -10,7 +10,15 @@ app.use(express.static('views'));
 
 // Path completo de la base de datos movies.db
 // Por ejemplo 'C:\\Users\\datagrip\\movies.db'
-const db = new sqlite3.Database('/Users/faculanusse/faculty/base-de-datos/tpbasededatos/movies.db');
+// Aca se usa la ruta absoluta
+//const db = new sqlite3.Database('C:/Users/nacug/Faculty/base-de-datos/tpbasededatos/movies.db');
+
+// Agrego codigo para que se use la ruta relativa y no haya problemas de actualización.
+const path = require('path');
+
+// Usa rutas relativas dentro del proyecto
+const dbPath = path.resolve(__dirname, './movies.db');
+const db = new sqlite3.Database(dbPath);
 
 // Configurar el motor de plantillas EJS
 app.set('view engine', 'ejs');
