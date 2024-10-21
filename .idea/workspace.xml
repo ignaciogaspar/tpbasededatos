@@ -4,10 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="4d4a11e1-5fd7-433f-ad42-7b74a0cba89b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
     <list default="true" id="5bceb46f-e395-4dd0-bd81-9e2670061928" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
@@ -1911,7 +1907,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/yallist/yallist.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yallist/yallist.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
->>>>>>> 53bf0a7327a24c9c2966c1558962977fcd19ab0b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1932,12 +1927,6 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-<<<<<<< HEAD
-    &quot;Node.js.app.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;facu-lanusse&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/faculanusse/Faculty/base-de-datos/tpbasededatos&quot;,
-=======
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Node.js.app.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -1945,7 +1934,6 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.18.0&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.16.11&quot;,
->>>>>>> 53bf0a7327a24c9c2966c1558962977fcd19ab0b
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -1968,18 +1956,9 @@
       <created>1729119205907</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1729035091726</updated>
-      <workItem from="1729035092749" duration="13000" />
-      <workItem from="1729035109433" duration="359000" />
-      <workItem from="1729035472729" duration="796000" />
-      <workItem from="1729170145255" duration="5000" />
-      <workItem from="1729170160718" duration="55000" />
-=======
       <updated>1729119205907</updated>
       <workItem from="1729119207092" duration="1645000" />
       <workItem from="1729370185769" duration="676000" />
->>>>>>> 53bf0a7327a24c9c2966c1558962977fcd19ab0b
     </task>
     <servers />
   </component>
