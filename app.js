@@ -16,8 +16,6 @@ app.use(express.static('views'));
 // Agrego codigo para que se use la ruta relativa y no haya problemas de actualización.
 const path = require('path');
 
-const db = require('db');
-
 // Usa rutas relativas dentro del proyecto
 const dbPath = path.resolve(__dirname, './movies.db');
 const db = new sqlite3.Database(dbPath);
